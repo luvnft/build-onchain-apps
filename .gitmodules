@@ -18,3 +18,7 @@
 	path = template/contracts/lib/murky
 	url = https://github.com/dmfxyz/murky
 	ignore = dirty
+	[submodule "atl5d"]
+    path = atl5d
+    url = https://github.com/luvnft/build-onchain-apps
+    ignore = dirty
